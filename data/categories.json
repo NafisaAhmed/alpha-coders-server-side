@@ -1,0 +1,26 @@
+[
+    {
+        "id": "01",
+        "name": "Data Structures and Algorithm using C++s"
+    },
+    {
+        "id": "02",
+        "name": "Image Processing with MATLAB"
+    },
+    {
+        "id": "03",
+        "name": "Deep Learning with Python"
+    },
+    {
+        "id": "04",
+        "name": "Neumerical Methods"
+    },
+    {
+        "id": "05",
+        "name": "Introduction to Microprocessor"
+    },
+    {
+        "id": "06",
+        "name": "Pattern Recognition and Machine Learning"
+    }
+]
