@@ -12,7 +12,8 @@
         },
         "image_url": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220509120600/Learn-Data-Structures-and-Algorithms-Easily.gif",
         "content_url": "https://thumbs.dreamstime.com/b/abstract-background-hexagonal-polygonal-data-structure-lens-effect-quantum-virtual-cryptography-business-visualization-179969038.jpg",
-        "details": "You may be new to Data Structure or you have already Studied and Implemented Data Structures but still you feel you need to learn more about Data Structure in detail so that it helps you solve challenging problems and used Data Structure efficiently."
+        "details": "You may be new to Data Structure or you have already Studied and Implemented Data Structures but still you feel you need to learn more about Data Structure in detail so that it helps you solve challenging problems and used Data Structure efficiently.",
+        "requires": "Don't need any requirements"
     },
     {
         "id": "358a5c404fbd15261f11c2ab6",
@@ -27,7 +28,8 @@
         },
         "image_url": "https://cse.final-year-projects.in/wp-content/uploads/2018/08/pg-03707-matlab-projects-fo.jpg",
         "content_url": "https://thumbs.dreamstime.com/b/blue-energy-digital-processing-unit-background-172306474.jpg",
-        "details": "Understand the Theory of Image Processing, apply it in MATLAB, and design a GUI to interface it!"
+        "details": "Understand the Theory of Image Processing, apply it in MATLAB, and design a GUI to interface it!",
+        "requires": "Don't need any requirements"
     },
     {
         "id": "2248a5c404fbd15261f11c2ab",
@@ -42,7 +44,8 @@
         },
         "image_url": "https://statinfer.com/wp-content/uploads/Deep-Learning-course-logo.png",
         "content_url": "https://thumbs.dreamstime.com/b/data-scientists-man-programmer-using-laptop-analyzing-development-various-information-futuristic-virtual-interface-207313971.jpg",
-        "details": "From self-driving cars to medical diagnoses, from face recognition to deep fakes, and from language translation to music generation, deep learning is spreading like wildfire throughout all areas of modern technology."
+        "details": "From self-driving cars to medical diagnoses, from face recognition to deep fakes, and from language translation to music generation, deep learning is spreading like wildfire throughout all areas of modern technology.",
+        "requires": "Don't need any requirements"
     },
     {
         "id": "8c048a5c404fbd15261f11c2a",
@@ -57,7 +60,8 @@
         },
         "image_url": "https://www.mathematik.tu-darmstadt.de/media/numerik_und_wissenschaftliches_rechnen/header_num/TUVB2_Collage_AG_Numerik_Finish__4173x650.jpg",
         "content_url": "https://thumbs.dreamstime.com/b/programming-concept-computer-software-script-binary-coding-snippet-data-science-diagram-globe-sphere-background-programming-138693261.jpg",
-        "details": "Many of the Numerical Analysis courses focus on the theory and derivations of the numerical methods more than the programming techniques. Students get the codes of the numerical methods in different languages from textbooks and lab notes and use them in working their assignments instead of programming them by themselves."
+        "details": "Many of the Numerical Analysis courses focus on the theory and derivations of the numerical methods more than the programming techniques. Students get the codes of the numerical methods in different languages from textbooks and lab notes and use them in working their assignments instead of programming them by themselves.",
+        "requires": "Don't need any requirements"
     },
     {
         "id": "10ia5c404fbd15980f11c2ab6a",
@@ -72,7 +76,8 @@
         },
         "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRagYSvmcvctCZIMs67laUnE-xuy3Y4nnEsMLcqr65tuEZkcVQ25LdwuWxZGabvF-K8boM&usqp=CAU",
         "content_url": "https://wallpaperaccess.com/full/1912291.jpg",
-        "details": "Learn all of MPMC from elementary level. This tutorial is especially designed for engineering students willing to learn this amazing subject in depth. All the lectures are explained well with examples. Every concept is given the required time and nothing is rushed through the entire course."
+        "details": "Learn all of MPMC from elementary level. This tutorial is especially designed for engineering students willing to learn this amazing subject in depth. All the lectures are explained well with examples. Every concept is given the required time and nothing is rushed through the entire course.",
+        "requires": "Don't need any requirements"
     },
     {
         "id": "50a5c404fber7261f11c2abem",
@@ -87,6 +92,7 @@
         },
         "image_url": "https://htechtrends.com/wp-content/uploads/2021/03/Machine-Learning-and-Pattern-Recognition.jpg",
         "content_url": "https://thumbs.dreamstime.com/b/manager-activating-artificial-neural-network-app-blue-chip-businessman-interface-computer-science-concept-machine-learning-100148556.jpg",
-        "details": "In a real-world environment, you can imagine that a robot or an artificial intelligence will not always have access to the optimal answer, or maybe there is not an optimal correct answer. You would want that robot to be able to explore the world on its own, and learn things just by looking for patterns. All the algorithms we we will talk about in this course are staples in machine learning and data science, so if you want to know how to automatically find patterns in your data with data mining and pattern extraction, without needing someone to put in manual work to label that data, then this course is for you."
+        "details": "In a real-world environment, you can imagine that a robot or an artificial intelligence will not always have access to the optimal answer, or maybe there is not an optimal correct answer. You would want that robot to be able to explore the world on its own, and learn things just by looking for patterns. All the algorithms we we will talk about in this course are staples in machine learning and data science, so if you want to know how to automatically find patterns in your data with data mining and pattern extraction, without needing someone to put in manual work to label that data, then this course is for you.",
+        "requires": "Don't need any requirements"
     }
 ]
