@@ -31,6 +31,12 @@ app.get('/courses', (req, res) => {
     res.send(courses);
 })
 
+app.get('/checkout/:id', (req, res) => {
+    const id = req.params.id;
+    const premiumButton = courses.filter(course => course.category_id === id);
+    res.send(premiumButton);
+})
+
 app.get('/courses/:id', (req, res) => {
     const id = req.params.id;
     const selectedCourses = courses.find(course => course.id === id);
